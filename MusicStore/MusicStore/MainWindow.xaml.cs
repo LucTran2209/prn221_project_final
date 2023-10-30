@@ -26,6 +26,11 @@ namespace MusicStore
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Test entity framwork
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             PRN221_ProjectFinalContext context = new PRN221_ProjectFinalContext();
