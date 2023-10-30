@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MusicStore.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,14 @@ namespace MusicStore
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            PRN221_ProjectFinalContext context = new PRN221_ProjectFinalContext();
+            var list = context.Artists.ToList();
+            int count = list.Count;
+            txtCount.Text = count.ToString();
         }
     }
 }

@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <StackPanel Orientation="Horizontal" Margin="100 200 100 100">
+            <TextBox Name="txtCount" Width="100" Height="20" />
+            <Button Height="20" Width="40" Click="Button_Click">Show</Button>
+        </StackPanel>
     </Grid>
 </Window>
