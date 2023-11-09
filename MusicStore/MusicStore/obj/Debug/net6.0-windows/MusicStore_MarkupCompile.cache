@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\prn221_project_final\MusicStore\MusicStore\obj\Debug\net6.0-windows\
+C:\Users\win\Desktop\PE_PRN\Project_PRN221\prn221_project_final\MusicStore\MusicStore\obj\Debug\net6.0-windows\
 MusicStore
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\prn221_project_final\MusicStore\MusicStore\App.xaml
-11407045341
+C:\Users\win\Desktop\PE_PRN\Project_PRN221\prn221_project_final\MusicStore\MusicStore\App.xaml
+21005619950
 
-9-1115707581
+14133056912
 2201069712415
-MainWindow.xaml;
+Views\ViewAdmin\HomeManagerView.xaml;Views\ViewAdmin\LoginView.xaml;
 
 False
 

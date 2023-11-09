@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWC+0l9ilbaR3F3bWNaLvRwrQ1LwPKAC93x7YgkA6G+xeL7etwdjwSG1h1J/j1T5G3Qi9vFE+yTt44kZjp0t3g==",
+  "dgSpecHash": "xbowXAk4fHYXmT8Vma1tvpJqWEQld8UvhyoQeHbnrrXQQ5S++8vkqzj9/uj61KC8y5ClIoobyoMlU4EOsGGnVA==",
   "success": true,
-  "projectFilePath": "D:\\prn221_project_final\\MusicStore\\MusicStore\\MusicStore.csproj",
+  "projectFilePath": "C:\\Users\\win\\Desktop\\PE_PRN\\Project_PRN221\\prn221_project_final\\MusicStore\\MusicStore\\MusicStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\win\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
